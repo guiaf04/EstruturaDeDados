@@ -1,0 +1,1 @@
+Splice é juntar duas listas encadeadas segundo todos os critérios possíveis. Busca interpolada é um tipo de busca que faz uma estimativa de onde está a "chave" tomando porcentagem como base.
