@@ -1,0 +1,1 @@
+Todos os projetos realizados durante a disciplina de Estrutura de Dados utilizando a linguagem C
